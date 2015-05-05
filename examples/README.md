@@ -1,18 +1,33 @@
-#Examples
+#Examples of open data implementations
 
-##Open GIS data implementations
+## Kentucky
 
-###Cook County &amp; Chicago, IL
+### Greater Cincinnati
+
+[Open Data Cincinnati](http://www.opendatacincy.org/)
+
+### Lexington-Fayette Co., KY
+
+[data.lexington.gov](http://data.lexingtonky.gov/)
+
+### Louisville, KY
+
+[Louisville Open Data Portal](http://portal.louisvilleky.gov/service/data)
+
+## Other
+
+### Cook County &amp; Chicago, IL
 
 [Cook County Open Data Portal](https://datacatalog.cookcountyil.gov/)
 
 [MetroChicagoData](https://www.metrochicagodata.org/)
 
-###Lexington-Fayette Co., KY
-[data.lexington.gov](http://data.lexingtonky.gov/)
+### King County & Seattle, WA
 
-Louisville, KY
+[data.kingcounty.gov](https://data.kingcounty.gov/)
 
-Seattle, WA
+[data.seattle.gov](https://data.seattle.gov/)
 
-Lucas Co. (Toledo), OH
+### Lucas Co. (Toledo), OH
+
+[Lucas County GIS](http://co.lucas.oh.us/index.aspx?NID=1316)
